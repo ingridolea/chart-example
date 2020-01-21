@@ -1,6 +1,6 @@
 body {
   font: 10px sans-serif;
-  
+  color: steelblue;
 }
 
 #apple-stock-chart .axis path,
@@ -28,4 +28,11 @@ body {
 #apple-stock-chart .focus circle {
   fill: none;
   stroke: steelblue;
+}
+
+#applechart {
+  color:red;
+  border: 4px blue;
+  background: lightblue;
+
 }
